@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [Hello Lizzy](https://medium.com/@riginoommen/hello-lizzy-d5966d3d1993?source=rss-844b5d568315------2)
-- [Nice One](https://medium.com/@riginoommen/nice-one-370c8f0eb3d0?source=rss-844b5d568315------2)
-- [Expecting for the second part](https://medium.com/@riginoommen/expecting-for-the-second-part-f7f8a52dd3ce?source=rss-844b5d568315------2)
-- [കറുപ്പിന് ഏഴു അഴക് എന്നല്ലേ.](https://medium.com/@riginoommen/%E0%B4%95%E0%B4%B1%E0%B5%81%E0%B4%AA%E0%B5%8D%E0%B4%AA%E0%B4%BF%E0%B4%A8%E0%B5%8D-%E0%B4%8F%E0%B4%B4%E0%B5%81-%E0%B4%85%E0%B4%B4%E0%B4%95%E0%B5%8D-%E0%B4%8E%E0%B4%A8%E0%B5%8D%E0%B4%A8%E0%B4%B2%E0%B5%8D%E0%B4%B2%E0%B5%87-6231f9a3d99f?source=rss-844b5d568315------2)
-- [Oh… This is so nice article.](https://medium.com/@riginoommen/oh-this-is-so-nice-article-895bc6a7fc72?source=rss-844b5d568315------2)
+- [Comment by Rigin Oommen on Cleaning Unwanted Fields From GraphQL Responses](https://stackoverflow.com/questions/47211778/cleaning-unwanted-fields-from-graphql-responses/51380645#51380645)
+- [Answer by Rigin Oommen for Recommended way for logging in apollo-server](https://stackoverflow.com/questions/57815724/recommended-way-for-logging-in-apollo-server/61358741#61358741)
+- [Comment by Rigin Oommen on How to deploy Sonarqube Server on Heroku Dyno](https://stackoverflow.com/questions/56805948/how-to-deploy-sonarqube-server-on-heroku-dyno/57052512#57052512)
+- [Answer by Rigin Oommen for Trying to make Supertest send a body to https post?](https://stackoverflow.com/questions/50358536/trying-to-make-supertest-send-a-body-to-https-post/60537266#60537266)
+- [Comment by Rigin Oommen on Apollo GraphQL Error: Query root type must be provided](https://stackoverflow.com/questions/59608833/apollo-graphql-error-query-root-type-must-be-provided/59609573#59609573)
 <!-- BLOG-POST-LIST:END -->
