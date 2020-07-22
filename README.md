@@ -11,7 +11,11 @@ Here are some ideas to get you started:
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+TypeScript   31 mins         ██████████████████░░░░░░░   71.86 % 
+Other        8 mins          █████░░░░░░░░░░░░░░░░░░░░   20.04 % 
+HTML         2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
+SCSS         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
 ```
 <!--END_SECTION:waka-->
 
