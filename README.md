@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 ```
 <!--END_SECTION:waka-->
 
-📕 **Latest Blog Posts**
+📕 **Stack Overflow Interactions**
 <!-- BLOG-POST-LIST:START -->
 - [Comment by Rigin Oommen on Cleaning Unwanted Fields From GraphQL Responses](https://stackoverflow.com/questions/47211778/cleaning-unwanted-fields-from-graphql-responses/51380645#51380645)
 - [Answer by Rigin Oommen for Recommended way for logging in apollo-server](https://stackoverflow.com/questions/57815724/recommended-way-for-logging-in-apollo-server/61358741#61358741)
