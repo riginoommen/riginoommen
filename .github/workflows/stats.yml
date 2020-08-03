@@ -3,7 +3,7 @@ name: Update stats
 on:
   schedule:
     # Runs at everyhour
-    - cron: '0/1 * * * *'
+    - cron: '0 * * * *'
   workflow_dispatch:
 
 jobs:
