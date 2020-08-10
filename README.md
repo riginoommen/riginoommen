@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Javascript
 - 🌱 I’m currently learning VueJs
 - 💬 Ask me about GraphQL
-- 📫 How to reach me: [@riginoommen](https://twitter.com/riginoommen)
+- 📫 How to reach me: [Rigin Oommen](mailto:riginoommen@gmail.com)
 - 😄 Pronouns: He/Him
 
 📊 **This week I spent my time on**
