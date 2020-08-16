@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 ```text
 TypeScript   8 hrs 30 mins   ████████████████░░░░░░░░░   63.85 % 
 HTML         3 hrs 15 mins   ██████░░░░░░░░░░░░░░░░░░░   24.49 % 
-GraphQL      49 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
-Python       12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
-SCSS         8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+GraphQL      49 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
+Python       12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+SCSS         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
 ```
 <!--END_SECTION:waka-->
 
