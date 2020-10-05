@@ -11,10 +11,9 @@ Here are some ideas to get you started:
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-TypeScript   1 hr 26 mins    █████████████▒░░░░░░░░░░░   53.58 % 
-HTML         56 mins         ████████▓░░░░░░░░░░░░░░░░   35.31 % 
-YAML         14 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
-Other        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+TypeScript   51 mins         █████████████░░░░░░░░░░░░   51.87 % 
+HTML         45 mins         ███████████▒░░░░░░░░░░░░░   45.12 % 
+Other        2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
 ```
 <!--END_SECTION:waka-->
 
