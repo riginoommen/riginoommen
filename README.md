@@ -11,11 +11,11 @@ Here are some ideas to get you started:
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-TypeScript   6 hrs 20 mins   ███████████████▓░░░░░░░░░   62.15 % 
-HTML         1 hr 28 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.38 % 
-GraphQL      1 hr 4 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
-JSON         55 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
-JavaScript   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+TypeScript   5 hrs 17 mins   ████████████████░░░░░░░░░   64.02 % 
+GraphQL      1 hr 4 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+HTML         47 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
+JSON         45 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
+JavaScript   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
 ```
 <!--END_SECTION:waka-->
 
