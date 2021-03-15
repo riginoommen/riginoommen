@@ -11,11 +11,7 @@ Here are some ideas to get you started:
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-Other        13 mins         █████████▓░░░░░░░░░░░░░░░   38.79 % 
-JavaScript   7 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.54 % 
-Vue.js       7 mins          █████░░░░░░░░░░░░░░░░░░░░   19.44 % 
-JSON         3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
-YAML         2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
