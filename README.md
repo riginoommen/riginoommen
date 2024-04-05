@@ -20,6 +20,8 @@ GraphQL           34 mins         █▒░░░░░░░░░░░░░�
 
 I'm always open to new connections and collaborations. Feel free to reach out to me on Email/LinkedIn.
 
-I'm excited to share with the world and make a positive impact on the community.
+I'm excited to share with the world and make a positive impact with the community.
+
+![](https://komarev.com/ghpvc/?username=riginoommen)
 
 ![](https://hit.yhype.me/github/profile?user_id=3840244)
