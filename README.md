@@ -7,11 +7,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript      14 hrs 8 mins   ████████████░░░░░░░░░░░░░   47.64 %
-JSON            8 hrs 19 mins   ███████░░░░░░░░░░░░░░░░░░   28.04 %
-JavaScript      2 hrs 56 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.93 %
-Docker          1 hr 54 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.42 %
-Other           1 hr 33 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.26 %
+TypeScript      18 hrs          ████████████▒░░░░░░░░░░░░   48.94 %
+JSON            9 hrs 36 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.12 %
+Other           2 hrs 58 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 %
+JavaScript      2 hrs 56 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 %
+Docker          2 hrs 10 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.91 %
 ```
 
 <!--END_SECTION:waka-->
