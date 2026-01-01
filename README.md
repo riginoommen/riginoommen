@@ -7,11 +7,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   2 hrs 15 mins   ██████████████████████░░░   87.37 %
-Other        15 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.29 %
-GraphQL      1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
-YAML         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
