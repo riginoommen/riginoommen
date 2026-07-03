@@ -23,7 +23,7 @@
 
 > *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
-I'm a **Senior Software Engineer at Red Hat**, building **GraphQL API platforms** and focusing on **API development with GraphQL**. As a **GraphQL Foundation Ambassador**, I'm passionate about **developer experience**, **Backstage platforms**, and empowering developers with better tools. Active contributor to Mozilla projects and the broader open-source community.
+I'm a **Senior Software Engineer at Red Hat**, building **GraphQL API platforms** with a **schema-first design** approach. As a **GraphQL Foundation Ambassador**, I'm passionate about **developer experience**, **Backstage platforms**, and empowering developers with elegant, type-safe APIs. Active contributor to Mozilla projects and the broader open-source community.
 
 <br>
 
@@ -39,7 +39,7 @@ const rigin = {
     expertise: ["Developer Platforms", "Backstage", "Apollo GraphQL", "Neo4j"],
     currentFocus: [
         "GraphQL API Platform with Red Hat",
-        "API Development with GraphQL",
+        "Schema-First API Design & Development",
         "Red Hat Developer Hub & Backstage"
     ],
     currentlyLearning: "Java ☕",
@@ -64,7 +64,7 @@ const rigin = {
         imdb: "nm7398876",
         interests: ["Film Translation", "Cross-cultural Communication"]
     },
-    askMeAbout: ["GraphQL", "Backstage", "Developer Experience", "Open Source", "Film Translation"]
+    askMeAbout: ["GraphQL", "Schema-First Design", "Type-Safe APIs", "Backstage", "Developer Experience", "Open Source"]
 };
 ```
 
@@ -121,7 +121,7 @@ const rigin = {
 
 Proud to be a **GraphQL Ambassador** with the GraphQL Foundation, contributing to the growth and adoption of GraphQL within the global developer community. I actively engage in knowledge sharing, community discussions, and advocacy around GraphQL best practices, tooling, and real-world usage.
 
-**Mission**: Bridge practical engineering experience with community learning through talks, content, and collaboration, supporting the broader vision of open, scalable API development.
+**Mission**: Bridge practical engineering experience with community learning through talks, content, and collaboration, supporting the broader vision of open, scalable, schema-first API development.
 
 🔗 [Learn more about GraphQL Ambassadors](https://graphql.org/community/ambassadors/)
 
@@ -204,7 +204,7 @@ Did you know? Beyond software engineering, I have a creative side! I've worked i
 
 ### 🚀 Innovation
 - Building GraphQL API Platform with Red Hat
-- API Development & GraphQL Architecture
+- Schema-First API Design & GraphQL Architecture
 - Red Hat Developer Hub & Backstage
 
 </td>
@@ -244,7 +244,7 @@ Did you know? Beyond software engineering, I have a creative side! I've worked i
 
 <div align="center">
 
-I'm always excited to connect with fellow engineers, discuss innovative ideas, or explore collaboration opportunities. Whether you want to talk about **GraphQL API platforms**, **API development**, **Backstage**, **Developer Experience**, **Red Hat Developer Hub**, or **open-source contributions**—let's chat!
+I'm always excited to connect with fellow engineers, discuss innovative ideas, or explore collaboration opportunities. Whether you want to talk about **GraphQL API platforms**, **schema-first design**, **type-safe APIs**, **Backstage**, **Developer Experience**, **Red Hat Developer Hub**, or **open-source contributions**—let's chat!
 
 <br>
 
