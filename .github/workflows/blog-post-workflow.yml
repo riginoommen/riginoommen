@@ -18,7 +18,8 @@ jobs:
         with:
           feed_list: "https://medium.com/feed/@riginoommen"
           max_post_count: 5
-          template: "$newline- [$title]($url) $newline"
+          comment_tag_name: "BLOG-POST-LIST"
+          template: "- [$title]($url)"
           commit_message: "📝 Updated Medium blog posts"
           committer_username: "blog-bot"
           committer_email: "blog-bot@users.noreply.github.com"

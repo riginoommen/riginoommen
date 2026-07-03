@@ -19,8 +19,8 @@ jobs:
         with:
           feed_list: "https://graphql.org/blog/rss.xml"
           max_post_count: 3
-          template: "$newline- [$title]($url) $newline"
+          comment_tag_name: "GRAPHQL-BLOG"
+          template: "- [$title]($url)"
           commit_message: "🚀 Updated GraphQL Foundation blog posts"
           committer_username: "graphql-bot"
           committer_email: "graphql-bot@users.noreply.github.com"
-          custom_tags: "graphql-blog"

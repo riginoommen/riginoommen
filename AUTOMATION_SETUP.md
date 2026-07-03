@@ -1,8 +1,8 @@
-# 🤖 GitHub Profile Automation Setup Guide
+# 🤖 GitHub Profile Automation Setup
 
-## ✅ Automations Implemented
+## ✅ Implemented Automations
 
-Your profile now has **5 powerful automations** ready to go:
+**5 automated workflows** to keep your profile fresh:
 
 ### 1. 📝 Medium Blog Posts (Daily)
 **File**: `.github/workflows/blog-post-workflow.yml`
