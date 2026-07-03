@@ -45,6 +45,7 @@ const rigin = {
     },
     community: {
         openSource: ["Red Hat", "Mozilla Projects"],
+        ambassador: "GraphQL Foundation Ambassador",
         speaking: ["DevConf.cz 2023/2024", "DevConf.IN 2018/2019"],
         conferenceTopics: [
             "Building Open Developer Platforms with Backstage",
@@ -104,39 +105,19 @@ const rigin = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📊 GitHub Analytics
+## 🏆 Recognition & Achievements
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=riginoommen&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=C9D1D9&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=riginoommen&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F" alt="GitHub Streak" />
+### GraphQL Foundation Ambassador
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riginoommen&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=riginoommen&theme=github-dark&hide_border=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=C9D1D9&area=true&area_color=F85D7F" alt="Contribution Graph" />
+<img src="https://img.shields.io/badge/GraphQL_Foundation-Ambassador-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL Ambassador"/>
 
-</div>
+Proud to be a **GraphQL Ambassador** with the GraphQL Foundation, contributing to the growth and adoption of GraphQL within the global developer community. I actively engage in knowledge sharing, community discussions, and advocacy around GraphQL best practices, tooling, and real-world usage.
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=riginoommen&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" width="100%"/>
-</div>
+**Mission**: Bridge practical engineering experience with community learning through talks, content, and collaboration, supporting the broader vision of open, scalable API development.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## ⏱️ Weekly Development Metrics
-
-<div align="center">
-
-<!--START_SECTION:waka-->
-
-```txt
-YAML                 3 hrs 18 mins         ███████▓░░░░░░░░░░░░░░░░░   31.06 %
-Markdown             1 hr 46 mins          ████▒░░░░░░░░░░░░░░░░░░░░   16.68 %
-Other                1 hr 44 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.31 %
-Docker               1 hr 29 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.94 %
-GraphQL              1 hr 1 min            ██▒░░░░░░░░░░░░░░░░░░░░░░   09.63 %
-```
-
-<!--END_SECTION:waka-->
+🔗 [Learn more about GraphQL Ambassadors](https://graphql.org/community/ambassadors/)
 
 </div>
 
