@@ -134,11 +134,13 @@ Proud to be a **GraphQL Ambassador** with the GraphQL Foundation, contributing t
 ### From Medium
 
 <!-- BLOG-POST-LIST:START -->
+_📌 Blog posts will auto-populate here once workflows are enabled_
 <!-- BLOG-POST-LIST:END -->
 
 ### GraphQL Foundation Blog
 
 <!-- GRAPHQL-BLOG:START -->
+_📌 GraphQL Foundation posts will auto-populate here once workflows are enabled_
 <!-- GRAPHQL-BLOG:END -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -146,6 +148,7 @@ Proud to be a **GraphQL Ambassador** with the GraphQL Foundation, contributing t
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+_📌 Recent activity will auto-populate here once workflows are enabled_
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">

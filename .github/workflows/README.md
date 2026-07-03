@@ -8,6 +8,7 @@
 | `graphql-feed.yml` | Daily (06:00 UTC) | Updates GraphQL blog posts |
 | `github-activity.yml` | Every 6 hours | Shows recent GitHub activity |
 | `link-checker.yml` | Weekly (Sunday) | Checks for broken links |
+| `dependabot-auto-merge.yml` | On PR | Auto-merges Dependabot updates |
 
 ## Quick Actions
 
