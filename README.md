@@ -46,7 +46,12 @@ const rigin = {
     },
     community: {
         openSource: ["Red Hat", "Mozilla Projects"],
-        speaking: ["DevConf.cz", "Tech Conferences"],
+        speaking: ["DevConf.cz 2023/2024", "DevConf.IN 2018/2019"],
+        conferenceTopics: [
+            "Building Open Developer Platforms with Backstage",
+            "GraphQL - Ask me what you want",
+            "Linux as a Digital Forensics Workstation"
+        ],
         profiles: ["Sessionize", "Medium", "Twitter", "IMDb"]
     },
     beyondCode: {
@@ -200,8 +205,8 @@ Did you know? Beyond software engineering, I have a creative side! I've worked i
 
 ### 🤝 Open Source & Community
 - Active Red Hat contributor
-- Mozilla Projects contributor
-- Conference speaker (DevConf.cz & more)
+- Mozilla Projects & Mozilla Community member
+- Conference speaker (DevConf.cz 2023/2024, DevConf.IN 2018/2019)
 
 </td>
 </tr>
