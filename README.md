@@ -1,9 +1,9 @@
 <div align="center">
 
 # 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rigin%20Oommen&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Senior%20Software%20Engineer%20@%20Red%20Hat%20•%20Open%20Source%20Advocate%20•%20GraphQL%20Specialist&descSize=16&descAlignY=51" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rigin%20Oommen&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Senior%20Software%20Engineer%20@%20Red%20Hat%20•%20GraphQL%20Foundation%20Ambassador%20•%20API%20Platform%20Engineer&descSize=16&descAlignY=51" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177DCFF&center=true&vCenter=true&width=940&lines=Welcome+to+my+digital+space+%F0%9F%91%8B;Senior+Software+Engineer+at+Red+Hat;Open+Source+Contributor+%26+Mozilla+Community+Member;Building+Developer+Platforms+with+Backstage;GraphQL+•+Angular+•+Node.js+Expert" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177DCFF&center=true&vCenter=true&width=940&lines=Welcome+to+my+digital+space+%F0%9F%91%8B;Senior+Software+Engineer+at+Red+Hat;Building+GraphQL+API+Platforms;GraphQL+Foundation+Ambassador;Developer+Experience+%26+Backstage+Specialist" alt="Typing SVG" />
 
 <br>
 
@@ -23,7 +23,7 @@
 
 > *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
-I'm a **Senior Software Engineer at Red Hat**, passionate about **open source**, **developer experience**, and **building platforms that empower developers**. As an active contributor to Mozilla projects and the broader open-source community, I believe in creating elegant solutions that make developers' lives easier.
+I'm a **Senior Software Engineer at Red Hat**, building **GraphQL API platforms** and focusing on **API development with GraphQL**. As a **GraphQL Foundation Ambassador**, I'm passionate about **developer experience**, **Backstage platforms**, and empowering developers with better tools. Active contributor to Mozilla projects and the broader open-source community.
 
 <br>
 
@@ -37,7 +37,11 @@ const rigin = {
     location: "Pune, India 🇮🇳",
     code: ["GraphQL", "JavaScript", "TypeScript", "Node.js", "Angular"],
     expertise: ["Developer Platforms", "Backstage", "Apollo GraphQL", "Neo4j"],
-    currentFocus: "Red Hat Developer Hub & Internal Developer Platforms",
+    currentFocus: [
+        "GraphQL API Platform with Red Hat",
+        "API Development with GraphQL",
+        "Red Hat Developer Hub & Backstage"
+    ],
     currentlyLearning: "Java ☕",
     infrastructure: {
         orchestration: ["Kubernetes", "Docker"],
@@ -157,8 +161,8 @@ Proud to be a **GraphQL Ambassador** with the GraphQL Foundation, contributing t
 </td>
 <td align="center" width="33%">
 <img src="https://skillicons.dev/icons?i=kubernetes,docker" /><br>
-<sub><b>Developer Platforms</b></sub><br>
-<sub>Backstage • Red Hat Developer Hub • Platform Engineering</sub>
+<sub><b>API Platforms & DevEx</b></sub><br>
+<sub>GraphQL API Platform • Backstage • Red Hat Developer Hub</sub>
 </td>
 <td align="center" width="33%">
 <img src="https://skillicons.dev/icons?i=angular,nodejs" /><br>
@@ -199,9 +203,9 @@ Did you know? Beyond software engineering, I have a creative side! I've worked i
 <td width="50%">
 
 ### 🚀 Innovation
-- Building Red Hat Developer Hub
-- Exploring Internal Developer Platforms
-- Advancing GraphQL ecosystem with Apollo
+- Building GraphQL API Platform with Red Hat
+- API Development & GraphQL Architecture
+- Red Hat Developer Hub & Backstage
 
 </td>
 <td width="50%">
@@ -240,7 +244,7 @@ Did you know? Beyond software engineering, I have a creative side! I've worked i
 
 <div align="center">
 
-I'm always excited to connect with fellow engineers, discuss innovative ideas, or explore collaboration opportunities. Whether you want to talk about **GraphQL**, **Backstage**, **Developer Experience**, **Red Hat Developer Hub**, or **open-source contributions**—let's chat!
+I'm always excited to connect with fellow engineers, discuss innovative ideas, or explore collaboration opportunities. Whether you want to talk about **GraphQL API platforms**, **API development**, **Backstage**, **Developer Experience**, **Red Hat Developer Hub**, or **open-source contributions**—let's chat!
 
 <br>
 
