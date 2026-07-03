@@ -10,6 +10,7 @@
 [![LinkedIn](https://img.shields.io/badge/-riginoommen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&link=https://linkedin.com/in/riginoommen)](https://linkedin.com/in/riginoommen)
 [![Twitter](https://img.shields.io/badge/-@riginoommen-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/riginoommen)
 [![Medium](https://img.shields.io/badge/-@riginoommen-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@riginoommen)
+[![IMDb](https://img.shields.io/badge/-IMDb-F5C518?style=for-the-badge&logo=imdb&logoColor=black)](https://www.imdb.com/name/nm7398876/)
 [![Sessionize](https://img.shields.io/badge/-Speaker_Profile-1AB394?style=for-the-badge&logo=sessionize&logoColor=white)](https://sessionize.com/riginoommen/)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -33,7 +34,8 @@ I'm a **Senior Software Engineer at Red Hat**, passionate about **open source**,
 ```typescript
 const rigin = {
     role: "Senior Software Engineer @ Red Hat",
-    location: "Pune, India",
+    location: "Pune, India 🇮🇳",
+    birthplace: "Thiruvalla, Kerala",
     code: ["GraphQL", "JavaScript", "TypeScript", "Node.js", "Angular"],
     expertise: ["Developer Platforms", "Backstage", "Apollo GraphQL", "Neo4j"],
     currentFocus: "Red Hat Developer Hub & Internal Developer Platforms",
@@ -45,9 +47,14 @@ const rigin = {
     community: {
         openSource: ["Red Hat", "Mozilla Projects"],
         speaking: ["DevConf.cz", "Tech Conferences"],
-        profiles: ["Sessionize", "Medium", "Twitter"]
+        profiles: ["Sessionize", "Medium", "Twitter", "IMDb"]
     },
-    askMeAbout: ["GraphQL", "Backstage", "Developer Experience", "Open Source"]
+    beyondCode: {
+        filmWork: "Hindi Translator - Algorithm (2014)",
+        imdb: "nm7398876",
+        interests: ["Film Translation", "Cross-cultural Communication"]
+    },
+    askMeAbout: ["GraphQL", "Backstage", "Developer Experience", "Open Source", "Film Translation"]
 };
 ```
 
@@ -165,6 +172,18 @@ GraphQL              1 hr 1 min            ██▒░░░░░░░░░�
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+## 🎬 Beyond Code
+
+<div align="center">
+
+Did you know? Beyond software engineering, I have a creative side! I've worked in film translation, contributing to **Algorithm (2014)** as a Hindi translator. You can find my film credits on [IMDb](https://www.imdb.com/name/nm7398876/).
+
+*Proving that engineers can bridge not just systems, but cultures and languages too!* 🌏✨
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## 💡 What Drives Me
 
 <table align="center">
@@ -219,6 +238,7 @@ I'm always excited to connect with fellow engineers, discuss innovative ideas, o
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/riginoommen)
 [![Twitter](https://img.shields.io/badge/Follow_on_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/riginoommen)
 [![Medium](https://img.shields.io/badge/Read_on_Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@riginoommen)
+[![IMDb](https://img.shields.io/badge/View_IMDb_Profile-F5C518?style=for-the-badge&logo=imdb&logoColor=black)](https://www.imdb.com/name/nm7398876/)
 
 <br>
 
