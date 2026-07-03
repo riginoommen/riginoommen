@@ -35,7 +35,6 @@ I'm a **Senior Software Engineer at Red Hat**, passionate about **open source**,
 const rigin = {
     role: "Senior Software Engineer @ Red Hat",
     location: "Pune, India 🇮🇳",
-    birthplace: "Thiruvalla, Kerala",
     code: ["GraphQL", "JavaScript", "TypeScript", "Node.js", "Angular"],
     expertise: ["Developer Platforms", "Backstage", "Apollo GraphQL", "Neo4j"],
     currentFocus: "Red Hat Developer Hub & Internal Developer Platforms",
