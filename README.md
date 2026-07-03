@@ -123,6 +123,27 @@ Proud to be a **GraphQL Ambassador** with the GraphQL Foundation, contributing t
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+## 📝 Latest Blog Posts
+
+### From Medium
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+### GraphQL Foundation Blog
+
+<!-- GRAPHQL-BLOG:START -->
+<!-- GRAPHQL-BLOG:END -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## ⚡ Recent GitHub Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## 🎓 Expertise & Specializations
 
 <table align="center">

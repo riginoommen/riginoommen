@@ -1,0 +1,26 @@
+name: GraphQL Foundation Blog Feed
+
+on:
+  schedule:
+    # Runs every day at 6 AM UTC
+    - cron: '0 6 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-graphql-blog:
+    name: Update README with GraphQL blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Pull in GraphQL Foundation blog posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://graphql.org/blog/rss.xml"
+          max_post_count: 3
+          template: "$newline- [$title]($url) $newline"
+          commit_message: "🚀 Updated GraphQL Foundation blog posts"
+          committer_username: "graphql-bot"
+          committer_email: "graphql-bot@users.noreply.github.com"
+          custom_tags: "graphql-blog"
