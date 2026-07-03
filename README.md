@@ -1,16 +1,16 @@
 <div align="center">
 
 # 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rigin%20Oommen&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Architect%20•%20Cloud%20Native%20Engineer%20•%20GraphQL%20Specialist&descSize=16&descAlignY=51" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rigin%20Oommen&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Senior%20Software%20Engineer%20@%20Red%20Hat%20•%20Open%20Source%20Advocate%20•%20GraphQL%20Specialist&descSize=16&descAlignY=51" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177DCFF&center=true&vCenter=true&width=940&lines=Welcome+to+my+digital+space+%F0%9F%91%8B;Building+scalable+distributed+systems;Passionate+about+GraphQL+%26+Cloud+Native;Always+learning%2C+always+growing" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177DCFF&center=true&vCenter=true&width=940&lines=Welcome+to+my+digital+space+%F0%9F%91%8B;Senior+Software+Engineer+at+Red+Hat;Open+Source+Contributor+%26+Mozilla+Community+Member;Building+Developer+Platforms+with+Backstage;GraphQL+•+Angular+•+Node.js+Expert" alt="Typing SVG" />
 
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/-riginoommen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&link=https://linkedin.com/in/riginoommen)](https://linkedin.com/in/riginoommen)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)]()
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Twitter](https://img.shields.io/badge/-@riginoommen-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]()
+[![Twitter](https://img.shields.io/badge/-@riginoommen-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/riginoommen)
+[![Medium](https://img.shields.io/badge/-@riginoommen-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@riginoommen)
+[![Sessionize](https://img.shields.io/badge/-Speaker_Profile-1AB394?style=for-the-badge&logo=sessionize&logoColor=white)](https://sessionize.com/riginoommen/)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -22,7 +22,7 @@
 
 > *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
-I'm a software engineer who believes in **clean architecture**, **automation-first thinking**, and **building systems that scale**. My passion lies in crafting elegant solutions to complex distributed system challenges.
+I'm a **Senior Software Engineer at Red Hat**, passionate about **open source**, **developer experience**, and **building platforms that empower developers**. As an active contributor to Mozilla projects and the broader open-source community, I believe in creating elegant solutions that make developers' lives easier.
 
 <br>
 
@@ -32,16 +32,22 @@ I'm a software engineer who believes in **clean architecture**, **automation-fir
 
 ```typescript
 const rigin = {
-    code: ["GraphQL", "TypeScript", "Python", "Go"],
-    architecture: ["Microservices", "Event-Driven", "Federated GraphQL"],
-    currentFocus: "Building resilient distributed systems",
+    role: "Senior Software Engineer @ Red Hat",
+    location: "Pune, India",
+    code: ["GraphQL", "JavaScript", "TypeScript", "Node.js", "Angular"],
+    expertise: ["Developer Platforms", "Backstage", "Apollo GraphQL", "Neo4j"],
+    currentFocus: "Red Hat Developer Hub & Internal Developer Platforms",
     infrastructure: {
         orchestration: ["Kubernetes", "Docker"],
         observability: ["Datadog", "Prometheus", "Grafana"],
         cicd: ["GitHub Actions", "ArgoCD"]
     },
-    learning: ["Platform Engineering", "eBPF", "Service Mesh"],
-    askMeAbout: ["GraphQL Federation", "Apollo Router", "Cloud Architecture"]
+    community: {
+        openSource: ["Red Hat", "Mozilla Projects"],
+        speaking: ["DevConf.cz", "Tech Conferences"],
+        profiles: ["Sessionize", "Medium", "Twitter"]
+    },
+    askMeAbout: ["GraphQL", "Backstage", "Developer Experience", "Open Source"]
 };
 ```
 
@@ -55,11 +61,12 @@ const rigin = {
 
 ### Languages & Frameworks
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Cloud & Infrastructure
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -76,10 +83,11 @@ const rigin = {
 
 ### Tools & Platforms
 ![Apollo](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=for-the-badge&logo=apollo-graphql&logoColor=white)
+![Backstage](https://img.shields.io/badge/-Backstage-9BF0E1?style=for-the-badge&logo=backstage&logoColor=black)
+![Red Hat](https://img.shields.io/badge/-Red%20Hat-EE0000?style=for-the-badge&logo=red-hat&logoColor=white)
+![Neo4j](https://img.shields.io/badge/-Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 </div>
 
@@ -129,18 +137,18 @@ GraphQL              1 hr 1 min            ██▒░░░░░░░░░�
 <tr>
 <td align="center" width="33%">
 <img src="https://skillicons.dev/icons?i=graphql,apollo" /><br>
-<sub><b>GraphQL Architecture</b></sub><br>
-<sub>Federation • Schema Design • Performance Optimization</sub>
+<sub><b>GraphQL Expert</b></sub><br>
+<sub>Apollo GraphQL • Neo4j • Graph Databases</sub>
 </td>
 <td align="center" width="33%">
 <img src="https://skillicons.dev/icons?i=kubernetes,docker" /><br>
-<sub><b>Cloud Native</b></sub><br>
-<sub>K8s • Service Mesh • GitOps</sub>
+<sub><b>Developer Platforms</b></sub><br>
+<sub>Backstage • Red Hat Developer Hub • Platform Engineering</sub>
 </td>
 <td align="center" width="33%">
-<img src="https://skillicons.dev/icons?i=prometheus,grafana" /><br>
-<sub><b>Observability</b></sub><br>
-<sub>Distributed Tracing • Metrics • Logging</sub>
+<img src="https://skillicons.dev/icons?i=angular,nodejs" /><br>
+<sub><b>Full-Stack Development</b></sub><br>
+<sub>Angular • Node.js • Modern JavaScript</sub>
 </td>
 </tr>
 </table>
@@ -164,17 +172,17 @@ GraphQL              1 hr 1 min            ██▒░░░░░░░░░�
 <td width="50%">
 
 ### 🚀 Innovation
-- Building next-gen distributed systems
-- Exploring emerging cloud technologies
-- Pushing boundaries in GraphQL federation
+- Building Red Hat Developer Hub
+- Exploring Internal Developer Platforms
+- Advancing GraphQL ecosystem with Apollo
 
 </td>
 <td width="50%">
 
-### 🤝 Collaboration
-- Contributing to open-source
-- Knowledge sharing through tech talks
-- Mentoring aspiring developers
+### 🤝 Open Source & Community
+- Active Red Hat contributor
+- Mozilla Projects contributor
+- Conference speaker (DevConf.cz & more)
 
 </td>
 </tr>
@@ -182,17 +190,17 @@ GraphQL              1 hr 1 min            ██▒░░░░░░░░░�
 <td width="50%">
 
 ### 📚 Continuous Learning
-- Platform engineering patterns
-- Service mesh architectures
-- Advanced observability techniques
+- Platform Engineering with Backstage
+- Modern frontend architectures
+- Developer Experience optimization
 
 </td>
 <td width="50%">
 
 ### 🎯 Impact
-- Creating resilient, scalable solutions
-- Improving developer experience
-- Optimizing system performance
+- Empowering developers with better tools
+- Sharing knowledge through speaking
+- Building developer-first platforms
 
 </td>
 </tr>
@@ -204,12 +212,13 @@ GraphQL              1 hr 1 min            ██▒░░░░░░░░░�
 
 <div align="center">
 
-I'm always excited to connect with fellow engineers, discuss innovative ideas, or explore collaboration opportunities. Whether you want to talk about GraphQL federation, cloud-native architectures, or the latest in distributed systems—let's chat!
+I'm always excited to connect with fellow engineers, discuss innovative ideas, or explore collaboration opportunities. Whether you want to talk about **GraphQL**, **Backstage**, **Developer Experience**, **Red Hat Developer Hub**, or **open-source contributions**—let's chat!
 
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/riginoommen)
-[![Email](https://img.shields.io/badge/Drop_me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Twitter](https://img.shields.io/badge/Follow_on_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/riginoommen)
+[![Medium](https://img.shields.io/badge/Read_on_Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@riginoommen)
 
 <br>
 
