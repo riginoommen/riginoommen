@@ -30,4 +30,13 @@
 
 ---
 
-For detailed setup instructions, see [AUTOMATION_SETUP.md](../../AUTOMATION_SETUP.md)
+## Setup
+
+**Enable workflows:**
+1. Repository Settings → Actions → General
+2. Workflow permissions: **Read and write**
+3. ✅ Allow GitHub Actions to create PRs
+4. Save
+
+**First run:**
+Go to [Actions](https://github.com/riginoommen/riginoommen/actions) → Select workflow → Run workflow
