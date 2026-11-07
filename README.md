@@ -137,7 +137,7 @@ Proud to be a **GraphQL Ambassador** with the GraphQL Foundation, contributing t
 
 ### GraphQL Foundation Blog
 
-<!-- GRAPHQL-BLOG:START -->- [Announcing the H1 2026 Grants](https://graphql.org/blog/2026-06-16-announcing-h1-2026-graphql-community-grants)- [Introducing GraphQL.js v17](https://graphql.org/blog/2026-06-15-introducing-graphql-js-v17)- [Introducing GAPs: GraphQL Auxiliary Proposals](https://graphql.org/blog/2026-06-01-announcing-gaps)<!-- GRAPHQL-BLOG:END -->
+<!-- GRAPHQL-BLOG:START -->- [Introducing GraphiQL 6](https://graphql.org/blog/2026-11-07-introducing-graphiql-6)- [GraphQL Foundation Budget Report: 2026 Update](https://graphql.org/blog/2026-11-06-graphql-foundation-budget-report-2026-update)- [Announcing the H1 2026 Grants](https://graphql.org/blog/2026-06-16-announcing-h1-2026-graphql-community-grants)<!-- GRAPHQL-BLOG:END -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
