@@ -137,7 +137,7 @@ Proud to be a **GraphQL Ambassador** with the GraphQL Foundation, contributing t
 
 ### GraphQL Foundation Blog
 
-<!-- GRAPHQL-BLOG:START -->- [September 2026 GraphQL Spec released](https://graphql.org/blog/2026-11-13-september-2026-graphql-spec)- [Announcing the GraphQL over HTTP specification](https://graphql.org/blog/2026-11-12-announcing-the-graphql-over-http-spec)- [Introducing GraphiQL 6](https://graphql.org/blog/2026-11-07-introducing-graphiql-6)<!-- GRAPHQL-BLOG:END -->
+<!-- GRAPHQL-BLOG:START -->- [Agent Skills for GraphQL: Where They Help and Where They Don&#39;t](https://graphql.org/blog/2026-11-24-agent-skills-for-graphql)- [September 2026 GraphQL Spec released](https://graphql.org/blog/2026-11-13-september-2026-graphql-spec)- [Announcing the GraphQL over HTTP specification](https://graphql.org/blog/2026-11-12-announcing-the-graphql-over-http-spec)<!-- GRAPHQL-BLOG:END -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
